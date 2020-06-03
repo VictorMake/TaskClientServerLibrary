@@ -5,10 +5,18 @@
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
+
+        Public Sub New(One As Integer, Two As Boolean)
+            ValueOne = One
+            ValueTwo = Two
+        End Sub
     End Structure
+
+    Private structureProject As MyStructure
 
     Public Sub New(name As String)
         Me.Name = name
+        structureProject = New MyStructure(1, True)
     End Sub
 
     Public Function GetName(inNewName As String) As String
