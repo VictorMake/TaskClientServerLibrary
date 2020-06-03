@@ -18,6 +18,7 @@ Public Class FormCommand
         'RegistrationEventLog.EventLog_AUDIT_SUCCESS("Згрузка окна " & Me.Text)
         Me.Text += " - " & parentReaderWriterCommand.Caption
         PopulateTabPage()
+        Dim mFutureClass As New FutureClass("Первый", FutureClass.TypeProject.Removed)
     End Sub
 
     Private Sub PopulateTabPage()
