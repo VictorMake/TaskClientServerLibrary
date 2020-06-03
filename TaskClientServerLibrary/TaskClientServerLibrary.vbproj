@@ -86,6 +86,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FutureClass2.vb" />
     <Compile Include="FutureClass.vb" />
     <Compile Include="Target\NetCommandForTask.vb" />
     <Compile Include="Target\Target.vb" />
