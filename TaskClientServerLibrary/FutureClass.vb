@@ -1,5 +1,6 @@
 ﻿Public Class FutureClass
     Public ReadOnly Property Name As Object
+
     'Добавлен какой-то класс
     Structure MyStructure
         Public ValueOne As Integer
