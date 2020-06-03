@@ -23,14 +23,14 @@
         Return Name
     End Function
 
-    Private mValue As String
-    Public Property GetValue() As String
-        Get
-            Return mValue
-        End Get
-        Set(ByVal value As String)
-            mValue = value
-        End Set
-    End Property
+    'Private mValue As String
+    'Public Property GetValue() As String
+    '    Get
+    '        Return mValue
+    '    End Get
+    '    Set(ByVal value As String)
+    '        mValue = value
+    '    End Set
+    'End Property
 
 End Class
