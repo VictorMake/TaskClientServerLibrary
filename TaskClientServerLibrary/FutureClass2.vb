@@ -5,6 +5,7 @@
     ' Добавил примечание
     ' Делаю новый коммит
     ' два изменения 1
+    ' Feature New Test
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
