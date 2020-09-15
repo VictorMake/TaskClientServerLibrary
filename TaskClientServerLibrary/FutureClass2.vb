@@ -4,6 +4,7 @@
     ' Добавлен какой-то класс
     ' Добавил примечание
     ' Делаю новый коммит
+    ' два изменения 1
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean

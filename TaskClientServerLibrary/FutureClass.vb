@@ -2,6 +2,7 @@
     Public ReadOnly Property Name As Object
 
     'Добавлен какой-то класс
+    ' два изменения 2
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
