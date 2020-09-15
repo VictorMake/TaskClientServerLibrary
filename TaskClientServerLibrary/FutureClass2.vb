@@ -1,7 +1,8 @@
 ﻿Public Class FutureClass2
     Public ReadOnly Property Name As Object
 
-    'Добавлен какой-то класс
+    ' Добавлен какой-то класс
+    ' Добавил примечание
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
