@@ -9,6 +9,8 @@
     ' Commit for new feature
     ' Commit for new feature 2
     ' merge to develop
+    ' создана фича для релиза 2
+    ' создана фича2 для релиза 2
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
