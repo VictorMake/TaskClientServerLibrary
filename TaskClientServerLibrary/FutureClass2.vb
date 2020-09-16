@@ -8,6 +8,7 @@
     ' Feature New Test
     ' Commit for new feature
     ' Commit for new feature 2
+    ' merge to develop
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
