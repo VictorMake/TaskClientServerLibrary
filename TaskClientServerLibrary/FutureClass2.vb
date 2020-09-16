@@ -7,6 +7,7 @@
     ' два изменения 1
     ' Feature New Test
     ' Commit for new feature
+    ' Commit for new feature 2
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
