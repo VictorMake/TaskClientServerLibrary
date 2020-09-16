@@ -6,6 +6,7 @@
     ' Делаю новый коммит
     ' два изменения 1
     ' Feature New Test
+    ' Commit for new feature
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
