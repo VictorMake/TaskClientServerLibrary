@@ -11,6 +11,8 @@
     ' merge to develop
     ' создана фича для релиза 2
     ' создана фича2 для релиза 2
+    ' перед удалением ветки
+
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
