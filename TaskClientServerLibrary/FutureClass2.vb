@@ -23,7 +23,7 @@
         End Sub
     End Structure
 
-	Structure ConflictSecond
+    Structure ConflictSecond
         Public ValueOne As Integer
         Public ValueTwo As Boolean
 
@@ -33,7 +33,7 @@
         End Sub
     End Structure
 
-    
+
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
