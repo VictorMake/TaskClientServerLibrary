@@ -13,6 +13,7 @@
     ' создана фича2 для релиза 2
     ' перед удалением ветки
     ' cherry-pick
+    ' Change in next for Rebase 1
     Structure ConflictFirst
         Public ValueOne As Integer
         Public ValueTwo As Boolean
