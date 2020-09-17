@@ -13,6 +13,16 @@
     ' создана фича2 для релиза 2
     ' перед удалением ветки
 
+    Structure ConflictSecond
+        Public ValueOne As Integer
+        Public ValueTwo As Boolean
+
+        Public Sub New(One As Integer, Two As Boolean)
+            ValueOne = One
+            ValueTwo = Two
+        End Sub
+    End Structure
+
     Structure MyStructure
         Public ValueOne As Integer
         Public ValueTwo As Boolean
