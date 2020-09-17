@@ -12,7 +12,7 @@
     ' создана фича для релиза 2
     ' создана фича2 для релиза 2
     ' перед удалением ветки
-
+    ' cherry-pick
     Structure ConflictFirst
         Public ValueOne As Integer
         Public ValueTwo As Boolean
