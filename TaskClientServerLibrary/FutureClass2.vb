@@ -15,6 +15,7 @@
     ' cherry-pick
     ' Change in next for Rebase 1
     ' Change in next for Rebase 2
+    ' Что-то
     Structure ConflictFirst
         Public ValueOne As Integer
         Public ValueTwo As Boolean
